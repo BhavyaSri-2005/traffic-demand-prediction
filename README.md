@@ -107,7 +107,7 @@ streamlit run app/streamlit_app.py
 ## 🌐 Live Demo
 
 🔗 **Live Application:**  
-YOUR_STREAMLIT_LINK
+https://traffic-demand-prediction-d7sveghdmrxyase5vwk9zq.streamlit.app/
 
 ---
 
