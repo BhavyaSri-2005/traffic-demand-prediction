@@ -132,7 +132,7 @@ The Ensemble Model provides improved prediction performance.
 
 ## 📷 Dashboard
 
-The dashboard includes:
+The dashboard includes: 
 
 - 🚦 Traffic Prediction
 - 📊 Interactive Charts
